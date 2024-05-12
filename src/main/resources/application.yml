@@ -1,0 +1,10 @@
+# Discord key
+discord:
+  token: ${DISCORD_TOKEN}
+  bots:
+    bot1:
+      discord-id: "the id of bot1"
+      discord-secret: "discord secret of bot2"
+    bot2:
+      discord-id: "the id of bot2"
+      discord-secret: "discord secret of bot2"
